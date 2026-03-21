@@ -20,7 +20,7 @@
 
 ## 🚀 Наши продукты
 
-### 🦩 [FusionTools Store](https://github.com/devovv/FusionTools)
+### 🦩 [FusionTools Store](https://github.com/devovv/FusionTools-Store)
 
 Магазин приложений для Windows. Скачивайте популярные программы в один клик.
 
@@ -33,7 +33,7 @@
 - 📥 Скачивание в один клик с прогресс-баром
 - ➕ Добавление своих программ
 
-[Подробнее →](https://github.com/devovv/FusionTools)
+[Подробнее →](https://github.com/devovv/FusionTools-Store)
 
 ---
 
@@ -49,12 +49,6 @@
 
 - Windows 10 / 11
 - 50 MB свободного места
-
----
-
-## 📄 Лицензия
-
-Распространяется под лицензией MIT.
 
 ---
 
