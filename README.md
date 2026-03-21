@@ -4,7 +4,7 @@
   
   ### Магазин приложений для Windows
   
-  ![Version](https://img.shields.io/badge/version-1.4-ff6b9d)
+  ![Version](https://img.shields.io/badge/version-1.5-ff6b9d)
   ![Platform](https://img.shields.io/badge/platform-windows-lightgrey)
   
 </div>
